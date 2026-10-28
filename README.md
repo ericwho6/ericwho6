@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is Eric and I'm a student at Penn State.
+I'm currently working on my first project: a custom Google Maps theme.
+I'm currently learning on how to navigate/use GitHub to help me on my journey.
 
 <!--
 **ericwho6/ericwho6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
